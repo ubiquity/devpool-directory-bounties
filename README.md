@@ -1,7 +1,5 @@
-# Devpool Directory Bounties
+# Bounties for the DevPool Directory
 
-This repository contains open bounties for the [devpool-directory](https://github.com/ubiquity/devpool-directory) repository while the [devpool-directory](https://github.com/ubiquity/devpool-directory) repository contains bounties from all of the [partners](https://github.com/ubiquity/devpool-directory/blob/development/projects.json).
-
-We can't store [devpool-directory](https://github.com/ubiquity/devpool-directory) bounties in the devpool-directory's [issues section](https://github.com/ubiquity/devpool-directory/issues) because:
-1. We don't want to mix partners' bounties with [devpool-directory](https://github.com/ubiquity/devpool-directory) specific bounties
-2. We disable github notifications for the [devpool-directory](https://github.com/ubiquity/devpool-directory) repository because they spam an email client interface. So we prefer keeping [devpool-directory](https://github.com/ubiquity/devpool-directory) bounties in a separate repository (this one).
+This repository hosts bounties for the [devpool-directory repository](https://github.com/ubiquity/devpool-directory), herein referred to as the "Directory." The Directory aggregates all of the open bounties from the global DevPool network comprised of the [registered partners](https://github.com/ubiquity/devpool-directory/blob/development/projects.json). We can not store the bounties on the Directory itself because:
+- We don't want to mix partners' bounties with Directory specific bounties.
+- We disable github notifications for the Directory because it produces too many notifications.
